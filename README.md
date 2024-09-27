@@ -1,0 +1,2 @@
+# frontend_eval_pre_consultation_and_medical_record
+预问诊和病例生成评测之后的界面展示
